@@ -74,6 +74,16 @@ npm install
 3:Start the development server:
 npm start
 
+
+## sample output pictures
+![image](https://github.com/GudepuRakshitha/An-AI-Powered-Personalized-Study-Planner-System-with-Goal-Based-Learning-/blob/55fa70cc77a03328a63283eedd69e9242a8c03bf/studyplanner4.png)
+
+![image](https://github.com/GudepuRakshitha/An-AI-Powered-Personalized-Study-Planner-System-with-Goal-Based-Learning-/blob/55fa70cc77a03328a63283eedd69e9242a8c03bf/studyplanner3.png)
+
+![image](https://github.com/GudepuRakshitha/An-AI-Powered-Personalized-Study-Planner-System-with-Goal-Based-Learning-/blob/55fa70cc77a03328a63283eedd69e9242a8c03bf/studyplanner2.png)
+
+![image](https://github.com/GudepuRakshitha/An-AI-Powered-Personalized-Study-Planner-System-with-Goal-Based-Learning-/blob/55fa70cc77a03328a63283eedd69e9242a8c03bf/studyplanner1.png)
+
 ## 📚 How It Works
 User login/registration
 
